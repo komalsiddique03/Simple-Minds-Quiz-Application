@@ -25,7 +25,7 @@ The application allows users to log in, attempt a quiz, answer multiple-choice q
 - File Handling
 - Object-Oriented Programming (OOP)
 
-## OOP Concepts
+# OOP Concepts
 
 - Encapsulation
 - Inheritance
